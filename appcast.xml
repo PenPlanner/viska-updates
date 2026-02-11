@@ -23,13 +23,13 @@
                 ]]>
             </description>
             <pubDate>Tue, 11 Feb 2026 22:00:00 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.3/Viska.zip"
-                sparkle:edSignature="Nw1Sdru8U+zfmwqkyld+ruEjV5Kr88fQSnNocw3nmiHbZ0QPUKPfyieOP+zxLnr/PnM3MM3jeuOA+c0xjBbmDQ=="
-                length="44448061"
+                sparkle:edSignature="ZLS7oQTv/Sk5w8wRByyGsP5yTnJuaVJCYwosk6/olTYDK6teiQ04b/4VE5wiGgY32sxqyC+qbBXBHxuhJ+SdAA=="
+                length="44448080"
                 type="application/octet-stream"
             />
         </item>
