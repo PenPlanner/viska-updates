@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Viska Updates</title>
+        <link>https://github.com/PenPlanner/viska-updates/releases</link>
+        <description>Most recent updates to Viska</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 1.0.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.2</h2>
+                    <ul>
+                        <li>Security audit cleanup and CloudSync updates</li>
+                        <li>Conversation mode improvements</li>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 11 Feb 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.2/Viska.zip"
+                sparkle:edSignature="REPLACE_AFTER_SIGNING"
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
+            <title>Version 1.0.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.1</h2>
+                    <ul>
+                        <li>Sparkle auto-update test</li>
+                        <li>Bug fixes and improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 02 Jan 2025 03:40:00 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.1/Viska.zip"
+                sparkle:edSignature="L1OJQFhx++VNOKUoRfxWPMeOp4mvvAdXppJVYyiX9xy4eTV4KCzN7Bwnf1HVUISAsoluWEnmI4c99+4pR53fCA=="
+                length="39932421"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                    <h2>Initial Release</h2>
+                    <ul>
+                        <li>Push-to-Talk with FN key</li>
+                        <li>Hands-free recording mode</li>
+                        <li>AI-powered transcription via Groq Whisper</li>
+                        <li>99+ language support</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 02 Jan 2025 03:35:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.0/Viska.zip"
+                sparkle:edSignature="uBWbdt5SjaDQnD11rc+a5WuyJWLS9AyMnX/TAXxtpEiw9o7oZHcJSqUIpAetQRbCyV3Fe/guJoGv8t+lP0G+Bw=="
+                length="39933353"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
