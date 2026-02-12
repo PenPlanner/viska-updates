@@ -12,15 +12,14 @@
                 <![CDATA[
                     <h2>What's New in 1.0.3</h2>
                     <ul>
-                        <li>Clock Widgets: 8 premium styles (Nixie Tube, Flip Clock, LED, Retro Terminal, Analog, Binary, Word Clock, Minimal)</li>
-                        <li>System Monitor Widgets: Live CPU, RAM, GPU, Disk, Battery metrics with 5 visual styles</li>
                         <li>UI polish and consistency improvements across Control Center and settings</li>
                         <li>Keyboard shortcuts now correctly handle Press, Hold, and Release modes</li>
-                        <li>CloudKit stability fix for crash prevention</li>
+                        <li>Sparkle update dialog uses native macOS alerts with release notes</li>
+                        <li>Appearance panel cleanup — streamlined background gallery controls</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Thu, 12 Feb 2026 15:44:16 +0000</pubDate>
+            <pubDate>Thu, 12 Feb 2026 15:48:02 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -54,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.0</title>
             <description>
