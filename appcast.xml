@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.4</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.4</h2>
+                    <ul>
+                        <li>UI polish and consistency improvements across Control Center and settings</li>
+                        <li>Keyboard shortcuts now correctly handle Press, Hold, and Release modes</li>
+                        <li>Sparkle update dialog uses native macOS alerts with release notes</li>
+                        <li>Appearance panel cleanup — streamlined background gallery controls</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 12 Feb 2026 16:03:32 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.4/Viska.zip"
+                sparkle:edSignature="IYf/h8oFbBbR2zYLTT+bvSozm+JrcgGUMNQrCmJexYRyM8mqJVPfs+gQBpaKT1t/UTbV82JieNPrH+4nnZfyBQ=="
+                length="45456057"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.3</title>
             <description>
                 <![CDATA[
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.1</title>
             <description>
