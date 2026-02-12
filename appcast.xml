@@ -12,10 +12,11 @@
                 <![CDATA[
                     <h2>What's New in 1.0.3</h2>
                     <ul>
+                        <li>Clock Widgets: 8 premium styles (Nixie Tube, Flip Clock, LED, Retro Terminal, Analog, Binary, Word Clock, Minimal)</li>
+                        <li>System Monitor Widgets: Live CPU, RAM, GPU, Disk, Battery metrics with 5 visual styles</li>
                         <li>UI polish and consistency improvements across Control Center and settings</li>
                         <li>Keyboard shortcuts now correctly handle Press, Hold, and Release modes</li>
-                        <li>Sparkle update dialog uses native macOS alerts with release notes</li>
-                        <li>Appearance panel cleanup — streamlined background gallery controls</li>
+                        <li>CloudKit stability fix for crash prevention</li>
                     </ul>
                 ]]>
             </description>
@@ -31,57 +32,6 @@
             />
         </item>
 
-        <item>
-            <title>Version 1.0.3</title>
-            <description>
-                <![CDATA[
-                    <h2>What's New in 1.0.3</h2>
-                    <ul>
-                        <li>UI polish and consistency improvements across Control Center and settings</li>
-                        <li>Keyboard shortcuts now correctly handle Press, Hold, and Release modes</li>
-                        <li>Sparkle update dialog uses native macOS alerts with release notes</li>
-                        <li>Appearance panel cleanup — streamlined background gallery controls</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>Thu, 12 Feb 2026 15:28:52 +0000</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.3/Viska.zip"
-                sparkle:edSignature="WRCOuvLnWVHP0DnG63x/qpWQJBVYn8rOQXkQoXJBZgTaMe1ayn7VtAihelnkjbovJ+za7V+DAX/0YTwxEvjYBw=="
-                length="45458645"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.0.3</title>
-            <description>
-                <![CDATA[
-                    <h2>What's New in 1.0.3</h2>
-                    <ul>
-                        <li>Clock Widgets: 8 premium styles (Nixie Tube, Flip Clock, LED 7-Segment, Retro Terminal, Analog, Binary, Word Clock, Minimal)</li>
-                        <li>System Monitor Widgets: Live CPU, RAM, GPU, Disk, Battery metrics with 5 visual styles</li>
-                        <li>Widgets are placeable anywhere with adjustable position, scale, and opacity</li>
-                        <li>Optional widget backgrounds — toggle on/off per widget</li>
-                        <li>CloudKit string deep copy fix for crash prevention</li>
-                        <li>Security audit cleanup and CloudSync updates</li>
-                        <li>Conversation mode improvements</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>Tue, 11 Feb 2026 22:00:00 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.3/Viska.zip"
-                sparkle:edSignature="k6eCY6A+G6LZrBzUhwjA82GKkcrBfouyt8qHDDQXoHpeMeeeiDA1vLs9uHP2XEk6itWyqSgETZLp5hRtIY2sDg=="
-                length="45402805"
-                type="application/octet-stream"
-            />
-        </item>
         <item>
             <title>Version 1.0.1</title>
             <description>
@@ -104,6 +54,7 @@
                 type="application/octet-stream"
             />
         </item>
+
         <item>
             <title>Version 1.0.0</title>
             <description>
