@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.8</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.8</h2>
+                    <ul>
+                        <li>Improved app stability and performance</li>
+                        <li>Streamlined internal development tools for faster updates</li>
+                        <li>Added foundational support for upcoming OpenClaw integration</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sun, 15 Feb 2026 16:40:02 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.0.8/Viska.zip"
+                sparkle:edSignature="0APH4F+73w/QHmV9LNjCpE1+dN2uHDeMkjyrDypCxaeELzb8gtqtPF8BpN0S0C8BgTePhwcb1UVHL8TZbs2zDQ=="
+                length="43085121"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.6</title>
             <description>
                 <![CDATA[
@@ -27,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.5</title>
             <description>
