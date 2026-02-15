@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.1.0</h2>
+                    <ul>
+                        <li>Added OpenClaw chat plugin with voice-powered microphone integration</li>
+                        <li>Improved chat interface with avatar picker and visual enhancements</li>
+                        <li>Added automatic update checking in Settings for the latest features</li>
+                        <li>Enhanced security with abuse protection and malicious user detection</li>
+                        <li>Translated 107 new interface elements into 31 languages</li>
+                        <li>Stability and performance improvements across the app</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 feb. 2026 20:25:55 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.1.0/Viska.zip"
+                sparkle:edSignature="1d3dfug6cuFKZFC0HErssXH9nddL5k8kwYKH3VviNPtqbFqt1HILtHEDYsF3eHo3Lb9Rdo7iMrqa7tWiKwhzDg=="
+                length="44697456"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.8</title>
             <description>
                 <![CDATA[
@@ -29,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.6</title>
             <description>
