@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.2.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.2.1</h2>
+                    <ul>
+                        <li>Improved Account settings screen layout for better clarity</li>
+                        <li>Streamlined Prompts settings by consolidating options</li>
+                        <li>Enhanced admin dashboard visual consistency</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 16 feb. 2026 23:01:49 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.2.1/Viska.zip"
+                sparkle:edSignature="ogUzrmlcaKumVDogEEYpOsqbpH8EmkT/vtOzgsD+QfcRxCw68EmSpc1C/S7PM2C+9A2lodHL6LxEoKP/HXTrAA=="
+                length="44236989"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.2.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.1.4</title>
             <description>
