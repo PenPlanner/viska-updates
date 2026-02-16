@@ -7,6 +7,58 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1.3</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.1.3</h2>
+                    <ul>
+                        <li>Stream Deck plugin updated to v1.4.0 with improved dial controls</li>
+                        <li>All prompt editing now unified in Settings with search and new Code tab</li>
+                        <li>Advanced mode toggle in Control Center for customizable interface controls</li>
+                        <li>Journal entries now auto-save when switching dates to prevent data loss</li>
+                        <li>Stream Deck dials automatically migrate to new layout on first launch</li>
+                        <li>Stability and performance improvements across the app</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 16 feb. 2026 18:23:05 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.1.3/Viska.zip"
+                sparkle:edSignature="sQhdEG2wJB8rBvBGzdtWheyn60ubL9AvVj4wV/FHWYWx0fECgEivJxTb5pxEsbVzvHsiqfyEu+RnEKyADkn4CQ=="
+                length="44333466"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
+            <title>Version 1.1.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.1.2</h2>
+                    <ul>
+                        <li>Improved Stream Deck integration with better dial controls and display</li>
+                        <li>Advanced mode added to Control Center for power users</li>
+                        <li>Settings reorganized with unified prompt management</li>
+                        <li>Fixed Journal view display and filtering issues</li>
+                        <li>Stability and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 16 feb. 2026 17:42:03 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.1.2/Viska.zip"
+                sparkle:edSignature="/MtHW3+uJd+jIugTaO1wvYXndKO1C9LtMz8cKg3uhMuDW1wRbuQqY4aBNFTIZshAjkwXRXOxmtmHrpdsY/LzAg=="
+                length="44319093"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.1.1</title>
             <description>
                 <![CDATA[
@@ -30,7 +82,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.1.0</title>
             <description>
