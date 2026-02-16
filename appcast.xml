@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.2.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.2.0</h2>
+                    <ul>
+                        <li>New admin dashboard for analytics and user management</li>
+                        <li>Redesigned Pro upgrade screens with modern liquid glass design</li>
+                        <li>Added network permission for Stream Deck local discovery</li>
+                        <li>Stability and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 16 feb. 2026 22:10:56 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.2.0/Viska.zip"
+                sparkle:edSignature="NVOixuis/n7RuGyl9MXkq2a9pcB/bqCxi8uOJhPkQ6pEuL+u9LWh8GojFKfSOvlN0m52TJHGdaVDx4kXEM/JDQ=="
+                length="44406683"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.4</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.1.3</title>
             <description>
