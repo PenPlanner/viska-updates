@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.1.1</h2>
+                    <ul>
+                        <li>Fixed subscription tier not syncing properly on first launch</li>
+                        <li>Improved widget and sticker positioning with live preview</li>
+                        <li>Enhanced network connectivity and device discovery</li>
+                        <li>Stability and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 16 feb. 2026 08:25:17 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.1.1/Viska.zip"
+                sparkle:edSignature="eiyptXfq0DHq8ehPDCmktcy57TZIPs0spQkvkJEsXe1yqkA3o8z2YxVMIDuOxWbIOgL/+gqx9mv+247KH13YBA=="
+                length="44764920"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.8</title>
             <description>
