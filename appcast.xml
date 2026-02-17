@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.2.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.2.2</h2>
+                    <ul>
+                        <li>New onboarding guide helps you get started quickly with your first transcription.</li>
+                        <li>Annotations now include a resize tool and improved text placement.</li>
+                        <li>Stream Deck users can now trigger any Viska action with a dedicated "Perform Action" button.</li>
+                        <li>Audio import now enforces sensible limits to keep the app running smoothly.</li>
+                        <li>Stability and performance improvements across history, presets, and sync.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 17 feb. 2026 20:00:30 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.2.2/Viska.zip"
+                sparkle:edSignature="6POBO8yTxe/ibwVlAOFJtoY0TSAba3PdbLsohclRjmp8tGgQICjcWysLquXIyEiMmJTsuH12RiZHJ4kM66FOAw=="
+                length="44373492"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.2.1</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.2.0</title>
             <description>
