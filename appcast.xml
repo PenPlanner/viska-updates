@@ -7,6 +7,54 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.3.0</h2>
+                    <ul>
+                        <li>Set timers and alarms directly from the transcription panel with presets and live controls.</li>
+                        <li>Widgets, stickers, and flags now remember their position per panel mode.</li>
+                        <li>Browse and import custom transcription models for improved accuracy.</li>
+                        <li>Export and import your custom keyboard shortcuts to use across devices.</li>
+                        <li>Settings are now preserved correctly when updating the app.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 18 feb. 2026 23:02:28 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.3.0/Viska.zip"
+                sparkle:edSignature="3j9hr6uLev7AgaBod7jN2tv8seed5ai+/QHAHzZ4B8OtQyENciD6xJnjUZQmmd+7hXD8C14wjPnZoEVcJRMlCg=="
+                length="45278701"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
+            <title>Version 1.2.3</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.2.3</h2>
+                    <ul>
+
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 17 feb. 2026 22:58:35 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.2.3/Viska.zip"
+                sparkle:edSignature="X24oAhjj0FcyyXuMFIHnJ8VMVloDE2u8+7sp8yrUKF1SI+BM2BxF1+E/9rbAeOxBxaSgkPTMkigK3MJl/tRXDw=="
+                length="44378854"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.2.2</title>
             <description>
                 <![CDATA[
@@ -31,7 +79,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.2.1</title>
             <description>
