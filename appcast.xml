@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.3.1</h2>
+                    <ul>
+                        <li>Rich text toolbar now includes a one-click copy button for faster text copying.</li>
+                        <li>Toolbar hover effects added for a more responsive, polished feel.</li>
+                        <li>Pinned items indicator moved to the toolbar for easier visibility.</li>
+                        <li>Widget picker has been redesigned with a cleaner, more intuitive layout.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 19 feb. 2026 14:37:05 +0000</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.3.1/Viska.zip"
+                sparkle:edSignature="5H2nxJmRmblWM5Yl695Ou/+9hkA7HgdHD5B7Xz118RRD05ujUdaW1vCnYi8S3f/BWETMbqPQshDq0vZppm05BQ=="
+                length="45326384"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.3.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.2.3</title>
             <description>
