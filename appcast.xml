@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.3.2</h2>
+                    <ul>
+                        <li>New unified decoration picker makes it easier to customize your transcriptions in one place.</li>
+                        <li>Stickers can now be resized to better fit your style.</li>
+                        <li>The audio visualizer is smoother and uses less energy.</li>
+                        <li>Various visual polish and interface refinements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 19 feb. 2026 18:19:15 +0000</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.3.2/Viska.zip"
+                sparkle:edSignature="cwFHRdqmxJ8ZJRZMvJOeKsKeuoyT9L0d6N9kZZKMs6taraQexKj4kFWnFYJPlAEMMDUpWXm8/iXsCDAG4z+KBQ=="
+                length="45356675"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.3.1</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.3.0</title>
             <description>
