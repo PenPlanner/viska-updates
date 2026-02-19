@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.3</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.3.3</h2>
+                    <ul>
+                        <li>New themed backgrounds let you personalize the look of your transcription window.</li>
+                        <li>A screenshot gallery makes it easy to browse and share your captured screenshots.</li>
+                        <li>Popular prompts are now suggested to help you get started faster with AI formatting.</li>
+                        <li>Local transcription models are faster and more accurate.</li>
+                        <li>Button labels now appear throughout the app for easier navigation.</li>
+                        <li>Stability improvements including better cloud sync reliability.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 19 feb. 2026 23:26:09 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.3.3/Viska.zip"
+                sparkle:edSignature="6H2E5OExuOEWBWCq28FKqzQafOu0H/PeBKpvX3UfGVr3kpaVEfhQCDL84X4rVIqB2PrZQWFZE9eI6jdTExxBAQ=="
+                length="45426104"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.3.2</title>
             <description>
                 <![CDATA[
@@ -30,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.3.1</title>
             <description>
