@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.4.1</h2>
+                    <ul>
+                        <li>iCloud sync now happens instantly when you make changes, keeping all your devices up to date.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 20 feb. 2026 22:41:11 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v1.4.1/Viska.zip"
+                sparkle:edSignature="FbXl28jBpIhys5lTVElT4otqtQAAJu75Gu/+6Ol/wdlbUVQHz6wc1nDIG1xG7EsQOKPu4Fk+AzQJSdHfF5i/Dw=="
+                length="45473016"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.4.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.3.5</title>
             <description>
