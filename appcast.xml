@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.2.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.2.0</h2>
+                    <ul>
+                        <li>iCloud sync is now reliable — your transcriptions and data sync correctly across all your devices.</li>
+                        <li>The app is now fully translated in 31 languages, with no missing or broken text.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 21 feb. 2026 21:32:04 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.2.0/Viska.zip"
+                sparkle:edSignature="YGRS4Uj1t0/g41oUZn5YE7/UoVTqlUAUFhSdgf4f1y1UC3Zw5zzD5YB0cxUeRmtNgQCKd/+/YNNRQLFZ20exCg=="
+                length="35584340"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.1.3</title>
             <description>
                 <![CDATA[
@@ -31,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.1.2</title>
             <description>
