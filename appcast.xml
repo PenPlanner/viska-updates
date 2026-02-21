@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.1.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.1.2</h2>
+                    <ul>
+                        <li>Device model icons now appear in filter menus for easier browsing.</li>
+                        <li>Transcription history now tracks which device each recording was made on.</li>
+                        <li>Control Center header buttons auto-hide to keep the interface clean and focused.</li>
+                        <li>General UI polish and stability improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 21 feb. 2026 00:56:05 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.1.2/Viska.zip"
+                sparkle:edSignature="eat2gaJHwBO9M0C8PTnfr+WCyI1jB8UCC+pIgPQAnSXChkITMG2CbGKj3dwtZPaygBRaia7kcD8xzEEc6WVLDg=="
+                length="45450322"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.1.1</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,5 @@
                 type="application/octet-stream"
             />
         </item>
-
-
     </channel>
 </rss>
