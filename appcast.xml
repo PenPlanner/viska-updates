@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.7.0</h2>
+                    <ul>
+                        <li>Connect Viska to OpenClaw and chat with an AI assistant directly from your menu bar.</li>
+                        <li>AI responses can be read aloud automatically during OpenClaw conversations.</li>
+                        <li>OpenClaw connection token syncs across your Macs via iCloud — no manual setup needed.</li>
+                        <li>New onboarding step lets you test your microphone and set your hotkeys before you start.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 22 feb. 2026 21:00:28 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.7.0/Viska.zip"
+                sparkle:edSignature="D9tgTbPfe0WaaXFGSI+WHTDSVJx2I9YAJzSbRtv6p0XuVd2pufBwunhdWr0TSMkVAdvxiXWW/aMHpOWgLOkQAQ=="
+                length="36280173"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.6.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.5.0</title>
             <description>
