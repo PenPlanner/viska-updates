@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.6.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.6.0</h2>
+                    <ul>
+                        <li>Notes and Journal sidebars are now resizable — drag to adjust the width to your liking.</li>
+                        <li>Add new journal entries directly from the calendar header with the new + button.</li>
+                        <li>Notes search bar now includes a quick-add button for faster note creation.</li>
+                        <li>Cloud sync now fetches your latest data immediately when the app launches.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 22 feb. 2026 18:21:53 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.6.0/Viska.zip"
+                sparkle:edSignature="YuPJLUK9loW9ZjE4gzAhSDcSx2023uG/7ZTZUOg0v4mEF7xhcWN7hiciWRDHFiS35PjQCBlzVBRYk5nqNi+zCg=="
+                length="36253335"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.4.0</title>
             <description>
