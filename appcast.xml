@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.8.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.8.0</h2>
+                    <ul>
+                        <li>Push-to-Talk keyboard shortcuts now work correctly after a recent regression.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 22 feb. 2026 21:40:31 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.8.0/Viska.zip"
+                sparkle:edSignature="d5N11dPMArIkoItnhNoh5ImmYuAqL2E8J+pOE1T4rmDsexYv9usl82JZfK1OdBKv24dRrMFPrajUHYCBRiMaAQ=="
+                length="36281221"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.6.0</title>
             <description>
