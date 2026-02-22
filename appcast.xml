@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.2.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.2.1</h2>
+                    <ul>
+                        <li>Chat with an AI assistant directly inside Viska using the new built-in AI chat feature.</li>
+                        <li>AI chat now opens in a dedicated window instead of a floating panel.</li>
+                        <li>The record button in compact Control Center is now wider and easier to click.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 22 feb. 2026 01:52:10 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.2.1/Viska.zip"
+                sparkle:edSignature="uuTJ0PfJgPrOI6yoZqtMX+WH7GgsMfv3pQmdz+NMyR5imZBFJR+wB1JvXfyPjQAyadp0X/k7wz2EGxJY6xw/Cg=="
+                length="36111661"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.2.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.1.3</title>
             <description>
