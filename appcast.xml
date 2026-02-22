@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.4.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.4.0</h2>
+                    <ul>
+                        <li>Chat with an AI assistant directly inside Viska using the new built-in AI chat.</li>
+                        <li>Send any transcription straight to your Notion workspace with one click.</li>
+                        <li>Control Viska hands-free with six new Apple Shortcuts actions.</li>
+                        <li>Format selected text from any app via the new Viska option in the macOS Services menu.</li>
+                        <li>The record button in compact Control Center is now wider and easier to click.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 22 feb. 2026 11:57:05 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.4.0/Viska.zip"
+                sparkle:edSignature="4WazZLrw22XdHWjR7ZWvSjIhsa3ko1hJS/ofHZogJomqiqBFl3uoakWa8ff6d0vjQd69SCiPhFfmmlN3hHVhAA=="
+                length="36128123"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.2.1</title>
             <description>
                 <![CDATA[
@@ -30,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.2.0</title>
             <description>
