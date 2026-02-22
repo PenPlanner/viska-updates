@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.5.0</h2>
+                    <ul>
+                        <li>Customize up to 4 Quick Actions in the Control Center for one-tap access to your favorite features.</li>
+                        <li>Presets now save per-preset settings for Translation, Conversation Mode, Date Context, and Build & Verify.</li>
+                        <li>Notes and Journal sidebars are now resizable — drag to your preferred width.</li>
+                        <li>A subtle usage gauge appears when you're approaching your weekly limit.</li>
+                        <li>Expanded in-app help for the Screenshot Gallery with tips on filtering, sorting, and sharing.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 22 feb. 2026 17:05:16 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.5.0/Viska.zip"
+                sparkle:edSignature="ZP3Js0PJSEi1EZkJVa7zi18IVK/G/IVgW5EfdV2bhQ/Sb65877u50AhWIF7fzVHVINo+aQkKRuD3kFSSiDkYAA=="
+                length="36232134"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.4.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +59,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.2.1</title>
             <description>
