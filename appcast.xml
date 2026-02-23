@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.20.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.20.0</h2>
+                    <ul>
+                        <li>Wake word "stop" command now reliably ends recording every time.</li>
+                        <li>Dictation is more accurate and consistent across sessions.</li>
+                        <li>Fixed the floating panel overlapping other windows unexpectedly.</li>
+                        <li>App updates now download and install correctly.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 22:32:11 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.20.0/Viska.zip"
+                sparkle:edSignature="J6oPATWpRw0lpM1oV2LQFXB6GBM5YP0cPbRWdCoiZ/gQN/tNuxc0eZRmNRrECrJdNu1n6/tRCV/nyOFNwFKPAQ=="
+                length="36647345"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.19.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.18.0</title>
             <description>
