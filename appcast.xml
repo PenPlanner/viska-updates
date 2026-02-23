@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.15.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.15.0</h2>
+                    <ul>
+                        <li>"Hey Viska" wake word detection is now more reliable and handles more speech variations.</li>
+                        <li>The recording panel now shows clear color-coded status icons so you always know what the app is doing.</li>
+                        <li>Voice commands now cover more settings — switch AI mode, output style, and more by speaking.</li>
+                        <li>Silence detection automatically kicks in after a wake word trigger, so recording stops when you finish speaking.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 19:01:06 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.15.0/Viska.zip"
+                sparkle:edSignature="kkFbVWSETAN6cXwie2jIjCfU4z5hjNEBPQEIuv+e/u25c7DcLc9UD5R4nAVbpq1VwqNZXt/4IyO5j103HJvDDg=="
+                length="36534786"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.14.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.13.0</title>
             <description>
