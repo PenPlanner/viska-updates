@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.21.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.21.0</h2>
+                    <ul>
+                        <li>Voice commands now work reliably while a recording is in progress.</li>
+                        <li>Fixed an issue where the floating panel could appear behind other windows.</li>
+                        <li>Settings interface has been cleaned up for a more polished experience.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 23:00:55 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.21.0/Viska.zip"
+                sparkle:edSignature="j/97cNyXhom7VI+7LHXZ3SZMLJi6UV5kr08jV0DAainFUL0DYGLm+lAfuL5RSHUp28Uv4Y8MKBKTd8kb1waaBA=="
+                length="36640322"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.20.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.19.0</title>
             <description>
