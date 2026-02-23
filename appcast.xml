@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.18.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.18.0</h2>
+                    <ul>
+                        <li>You can now customize quick actions to match your personal workflow.</li>
+                        <li>Wake word detection is more reliable and responds consistently.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 20:45:59 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.18.0/Viska.zip"
+                sparkle:edSignature="ciwmAfEHICo+mkv8sQ8vnlrYUMWUiSo/8eRGm0HFA20CbGzUxNSl0S57MkFkkBT9hBAKEACUi438NTRa7oLfAQ=="
+                length="36578620"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.17.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.16.0</title>
             <description>
