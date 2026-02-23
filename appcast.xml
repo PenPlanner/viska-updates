@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.13.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.13.0</h2>
+                    <ul>
+                        <li>Say "Hey Viska" to start recording hands-free, without touching your keyboard.</li>
+                        <li>New voice commands let you control the app entirely with your voice.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 17:16:15 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.13.0/Viska.zip"
+                sparkle:edSignature="lO0s8abf9Qp7NsWacBNw+x6yMi0JHNn3UeMppbwZl1QuH2oI+GJ19/hj8Hk3x2QskUOsjJhL8qWDPXIbg0E0BQ=="
+                length="36469751"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.12.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.10.0</title>
             <description>
