@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.14.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.14.0</h2>
+                    <ul>
+                        <li>"Hey Viska" now activates more reliably with consistent wake word detection across all system languages.</li>
+                        <li>Visual status indicators clearly show when Viska is listening, recording, or dictating.</li>
+                        <li>Voice command settings are cleaner and easier to understand at a glance.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 18:11:03 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.14.0/Viska.zip"
+                sparkle:edSignature="Mljbo2nLg0M6XL/0fldfwsKh5erXagLjGuOpDQDvXvBsVmaRryLNVUKCNYpj+Z5g0nmN3liOWoSLQ7Zq9xLiDQ=="
+                length="36469518"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.13.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.12.0</title>
             <description>
