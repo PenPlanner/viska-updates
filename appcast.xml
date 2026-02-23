@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.9.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.9.0</h2>
+                    <ul>
+                        <li>New sections added to the Control Center info panel for quicker access to key details.</li>
+                        <li>The Conversation toggle can now always be shown, regardless of other settings.</li>
+                        <li>Improved AI prompt names for better clarity and consistency.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 23 feb. 2026 15:07:24 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.9.0/Viska.zip"
+                sparkle:edSignature="m6HdLYsLKpIC720hKwcVtbStFgVZq1Vd51ym8Ql+0OxXOlFMEQ1loXuQDTv0UJAUuix4gYl3GDV/v6u1UouVDA=="
+                length="36402137"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.8.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.7.0</title>
             <description>
