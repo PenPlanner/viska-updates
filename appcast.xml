@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.26.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.26.0</h2>
+                    <ul>
+                        <li>Record audio directly from the Reports window for faster report creation.</li>
+                        <li>Rename reports inline without opening a separate dialog.</li>
+                        <li>Choose which AI model to use when generating reports.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 24 feb. 2026 13:51:59 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.26.0/Viska.zip"
+                sparkle:edSignature="HDHsdJql61eS5H0WNVw0UqeoxXOya3FlXJO5Kh7xFVXq70ilrHcQmEo/DnPm8awqJyO3JYYHZQGSYYtQwYpzBQ=="
+                length="37636174"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.25.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.24.0</title>
             <description>
