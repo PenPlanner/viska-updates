@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.23.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.23.0</h2>
+                    <ul>
+                        <li>New: Professional Reports — create polished documents from your recordings using AI-powered templates.</li>
+                        <li>Reports sync across your devices automatically via iCloud.</li>
+                        <li>Export reports to share or archive them outside the app.</li>
+                        <li>Use voice commands while recording without stopping your dictation.</li>
+                        <li>Chain multiple voice commands together in a single spoken phrase.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 24 feb. 2026 11:17:06 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.23.0/Viska.zip"
+                sparkle:edSignature="bVNGveBYy1/ZUMahpl+5S6HnpKohtwjn4sMAA2umDB0xWlKO+R0NEgAJmkAYXxMm3JD24jMRcByhPgsq7OnjAg=="
+                length="37558205"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.22.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.21.0</title>
             <description>
