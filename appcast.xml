@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.24.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.24.0</h2>
+                    <ul>
+                        <li>New: Create professional reports from your transcriptions using built-in AI templates.</li>
+                        <li>Reports sync automatically across your devices via iCloud.</li>
+                        <li>Choose from multiple report styles to fit your workflow and content type.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 24 feb. 2026 11:55:45 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.24.0/Viska.zip"
+                sparkle:edSignature="g9FTbyKSMNNt6LA7IYiZF6fY64YekfiCv/chtfpU7Bw5kuUo9KvzkOAMXSKmOCAcChltt2h61rCTqY06pDoJCQ=="
+                length="37562260"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.23.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.22.0</title>
             <description>
