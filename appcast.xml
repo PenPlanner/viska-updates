@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.22.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.22.0</h2>
+                    <ul>
+                        <li>Use voice commands while recording is in progress, without stopping.</li>
+                        <li>Issue multiple voice commands in a single phrase for faster control.</li>
+                        <li>Subscription plan benefits are now clearer and easier to understand.</li>
+                        <li>Triggers settings have a simpler, cleaner layout.</li>
+                        <li>Stability improvements and minor bug fixes for voice mode.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 24 feb. 2026 10:00:39 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.22.0/Viska.zip"
+                sparkle:edSignature="oUFjtHOq0L8Qh8Bnuf1uG3I6iEgtw09X1yqarEpyPbvkv2TojXTUP6WFoefIh7NE4TD7TMeh1eYbD3Iyi+0fCA=="
+                length="36648467"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.21.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.20.0</title>
             <description>
