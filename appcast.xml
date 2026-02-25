@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.31.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.31.0</h2>
+                    <ul>
+                        <li>Improved stability of the floating panel for a smoother, more reliable experience.</li>
+                        <li>General stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 25 feb. 2026 14:10:34 +0000</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.31.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.31.0/Viska.zip"
+                sparkle:edSignature="M0DL9T7bs6dfQhxaMhO69KsCTuouf417JTxNpKL5fOfRWr5WISXBpX4vcjW2SMudX0fBqnqWNSs7fdJ5KKc7DQ=="
+                length="37762849"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.30.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.29.0</title>
             <description>
