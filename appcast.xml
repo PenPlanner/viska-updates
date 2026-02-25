@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.28.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.28.0</h2>
+                    <ul>
+                        <li>Word-by-word highlighting during transcription playback is now accurate and reliable.</li>
+                        <li>Selecting multiple items in the Library works correctly again.</li>
+                        <li>Reports view includes layout and usability improvements.</li>
+                        <li>The floating panel has been refined for a smoother experience.</li>
+                        <li>Stability and reliability improvements under the hood.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 25 feb. 2026 10:34:58 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.28.0/Viska.zip"
+                sparkle:edSignature="WTynBAoTvTYFmcFP7JfQnV8j7O+n/wpUCT0w556f82Zss6d6O2HIcui76nNUrZ5nGk/sJuusOlzIXGUeWhzDBA=="
+                length="37732425"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.27.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.26.0</title>
             <description>
