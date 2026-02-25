@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.34.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.34.0</h2>
+                    <ul>
+                        <li>Voice Mode no longer freezes during active sessions.</li>
+                        <li>The floating panel is more stable and responsive.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 25 feb. 2026 15:55:29 +0000</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.34.0/Viska.zip"
+                sparkle:edSignature="dk1E/KNJNNCZD+A7XVo/ISsjUXVnL+pW1ZfQwl81+C+BYK8wZenbOlZdcYC67R66wG/7GflZizM0Jzz1JBKKCg=="
+                length="37764216"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.33.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.32.0</title>
             <description>
