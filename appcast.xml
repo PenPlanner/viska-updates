@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.29.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.29.0</h2>
+                    <ul>
+                        <li>Reports editor now supports text color, highlighting, and undo/redo for easier editing.</li>
+                        <li>Word-by-word playback highlighting now stays accurately in sync with the audio.</li>
+                        <li>Selecting multiple items in your Library works correctly again.</li>
+                        <li>Offline mode now clearly indicates when AI reformatting requires Apple Intelligence.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 25 feb. 2026 12:19:12 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.29.0/Viska.zip"
+                sparkle:edSignature="wSssxE56PyVP3lgveUP1ByULe1iiAuvWLkq+qq8rZp9TNRLD6fj0HbgBCzDRhCOBVjziErlPAorJVA6A2ipbBg=="
+                length="37762828"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.28.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.27.0</title>
             <description>
