@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.35.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.35.0</h2>
+                    <ul>
+                        <li>Reorganized the Reports editor toolbar for a cleaner, more intuitive layout.</li>
+                        <li>Improved voice commands with better reliability and responsiveness.</li>
+                        <li>Refreshed the Settings interface for easier navigation.</li>
+                        <li>Fixed text color in the Reports editor for better readability.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 25 feb. 2026 21:35:38 +0000</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.35.0/Viska.zip"
+                sparkle:edSignature="bKymBfO+hIKPjjfTR2ESAXQW99zWgq6Z26SPBYw8V4aAWtZRiplH9GZzdbfeeZIjslIWOuTiER7JZ31wOnk0CQ=="
+                length="37802632"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.34.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.33.0</title>
             <description>
