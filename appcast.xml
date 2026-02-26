@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.40.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.40.0</h2>
+                    <ul>
+                        <li>New IP Address widget lets you quickly view your local network address.</li>
+                        <li>Clock and system monitor widgets now display correctly in preview.</li>
+                        <li>Reduced app size by removing an unused audio library.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 26 feb. 2026 21:54:59 +0000</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.40.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.40.0/Viska.zip"
+                sparkle:edSignature="tTKmVZTHIg4ScWyztkm92Z3uH7Jmehl/WKFfrDc9BtzELfghld1LPQBf/2B8uw6X8uIXBwXM3t52WCGSZZ/4Dw=="
+                length="56859249"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.39.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.38.0</title>
             <description>
