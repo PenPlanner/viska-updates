@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.39.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.39.0</h2>
+                    <ul>
+                        <li>The text-to-speech controls have a cleaner, more polished look and feel.</li>
+                        <li>The notes editor toolbar is reorganized for easier access to common actions.</li>
+                        <li>Voice commands are more reliable and responsive.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 26 feb. 2026 18:25:32 +0000</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.39.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.39.0/Viska.zip"
+                sparkle:edSignature="y59Gqxo4EU3zdesdBjYqeRINNgd4+J9EJE9wQi26eIsJKH6b4MOfkf30Fpsd0T0XuNIrFvJnHBrvHmb8vYVBCw=="
+                length="56777921"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.38.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.37.0</title>
             <description>
