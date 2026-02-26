@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.38.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.38.0</h2>
+                    <ul>
+                        <li>New: Listen to your notes read aloud with a tap, using natural-sounding voices.</li>
+                        <li>Choose between your Mac's built-in voices or a downloadable local AI voice engine.</li>
+                        <li>Adjust read-aloud speed — slow, normal, or fast — to match your pace.</li>
+                        <li>Voice commands are now shorter and more natural; no need to say "Viska" for every action.</li>
+                        <li>The Reports editor toolbar is cleaner and easier to navigate.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 26 feb. 2026 15:49:33 +0000</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.38.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.38.0/Viska.zip"
+                sparkle:edSignature="kwHGh95DDcz2b1PIqN4AwVdoC165fvTdxmlmOfIEU1ffxUW/NKzhh2sF9yiFvZPU+rWHOeBA6/M2ZI9a9nMLAQ=="
+                length="56777309"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.37.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.36.0</title>
             <description>
