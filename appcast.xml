@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.36.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.36.0</h2>
+                    <ul>
+                        <li>Settings rows now highlight on hover, making navigation clearer and more responsive.</li>
+                        <li>General stability and polish improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 26 feb. 2026 12:01:13 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.36.0/Viska.zip"
+                sparkle:edSignature="8UgeJxkXJSe7ZP1pkvKXrpP/CabB9ILHP5uwzxnEL2tbqByclfELWMwE6qeGUsPN299PqFfYMfFEA1hXN3scBw=="
+                length="37814237"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.35.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.34.0</title>
             <description>
