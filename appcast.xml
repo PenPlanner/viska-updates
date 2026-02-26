@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.37.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.37.0</h2>
+                    <ul>
+                        <li>Viska can now read your transcriptions aloud using Text-to-Speech.</li>
+                        <li>Choose between local on-device voices or your system's built-in voices.</li>
+                        <li>Configure your preferred voice directly from the app settings.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 26 feb. 2026 14:17:36 +0000</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.37.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.37.0/Viska.zip"
+                sparkle:edSignature="mwK82UayNCkbor1GssFVEKtI20JIXncZ/cyXwlgijHnIKpdLqWM68wQKW3YsbtJ4Y06njVnXAN932D1mV7xRBQ=="
+                length="56778322"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.36.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.35.0</title>
             <description>
