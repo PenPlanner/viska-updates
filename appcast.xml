@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.41.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.41.0</h2>
+                    <ul>
+                        <li>Improved layout of report pickers for easier reading and selection.</li>
+                        <li>Refreshed Pro tier interface with a cleaner, more polished look.</li>
+                        <li>Fixed several text-to-speech issues for smoother audio playback.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 27 feb. 2026 09:32:58 +0000</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.41.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.41.0/Viska.zip"
+                sparkle:edSignature="PqsSOd0gfTZX8ztlTQq1FuRfpZ1WbNsjf27Vxd+FqK63d8kUVjorndefqGpL58XzK7yERK686blkbprzaQQ+BA=="
+                length="56868783"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.40.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.39.0</title>
             <description>
