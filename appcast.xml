@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.42.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.42.0</h2>
+                    <ul>
+                        <li>Added audio feedback when switching between AI modes.</li>
+                        <li>Command mode now remains visible in the Control Center.</li>
+                        <li>Recording panel now remembers its own AI mode settings independently.</li>
+                        <li>Subscription settings now display a refreshed Pro tier interface.</li>
+                        <li>Notes are now protected from accidental cloud sync overwrite.</li>
+                        <li>General stability and text-to-speech improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 27 feb. 2026 11:09:48 +0000</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.42.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.42.0/Viska.zip"
+                sparkle:edSignature="tG4VXTu2u2mcNWTxdAi1bTG9+Xk5dB7IUPg+7makfgaAZYI0BrFVZ1Cbxf9aVF/tUPgR8iE3TkXDhxKH35pVDQ=="
+                length="56877850"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.41.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.40.0</title>
             <description>
