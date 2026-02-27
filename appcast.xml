@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.43.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.43.0</h2>
+                    <ul>
+                        <li>Modes now play a sound when you switch between RAW, FLOW, CLARITY, and other transcription modes.</li>
+                        <li>Command mode is now available in the Control Center for quicker access to voice commands.</li>
+                        <li>Local model selection is now available directly in the floating panel.</li>
+                        <li>Voice Mode is now gated by subscription tier, with a new info modal explaining available features.</li>
+                        <li>Security and stability improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 27 feb. 2026 18:39:47 +0000</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.43.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.43.0/Viska.zip"
+                sparkle:edSignature="eicnAaZGuyi3RzD6fuD3EtUwylwrf06LvH6ZwaBOKoD4k0ixeI3aarlu/mR/lsjjWaMPEVwprQxS7PzpX9pWDg=="
+                length="57647999"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.42.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.41.0</title>
             <description>
