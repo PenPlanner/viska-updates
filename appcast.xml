@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.47.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.47.0</h2>
+                    <ul>
+                        <li>New onboarding experience to help you get started quickly.</li>
+                        <li>The app window is now resizable to fit your workflow.</li>
+                        <li>Language support now covers 32 languages.</li>
+                        <li>Various improvements to subscription setup and billing options.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 27 feb. 2026 23:14:03 +0000</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.47.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.47.0/Viska.zip"
+                sparkle:edSignature="H00cYqEmezZIZWuPEj9477DveUUMuIETSh7dgXkkhcUq8Lt04wwIm1nxQM3uqPChib3Vjw9u1FbUv3tmx0b6Cw=="
+                length="57769395"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.46.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.44.0</title>
             <description>
