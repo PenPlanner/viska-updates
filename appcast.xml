@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.46.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.46.0</h2>
+                    <ul>
+                        <li>New onboarding experience makes getting started with Viska faster and clearer.</li>
+                        <li>Use promo code **VISKA15** to unlock a discount on your subscription.</li>
+                        <li>Updated feature overview clearly shows what's included in each plan.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 27 feb. 2026 22:29:26 +0000</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.46.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.46.0/Viska.zip"
+                sparkle:edSignature="5xCc6lSIAJHwI94LY+uTYWUnNzE+Rzeh9rWdtXOys70WZ0n9QfczzXWkkGzBissGBUpmCdMCygGX+OR0mOKOBw=="
+                length="57766484"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.44.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.43.0</title>
             <description>
