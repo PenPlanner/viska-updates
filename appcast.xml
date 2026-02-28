@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.56.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.56.0</h2>
+                    <ul>
+                        <li>Transcription settings have been redesigned with a cleaner, easier-to-navigate layout.</li>
+                        <li>Voice downloads no longer get stuck at 99% — they complete correctly now.</li>
+                        <li>Gift codes are now activated more reliably when first redeemed.</li>
+                        <li>The Control Center window can now be resized to fit your workflow.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 19:26:34 +0000</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>0.56.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.56.0/Viska.zip"
+                sparkle:edSignature="gCuzibNRZuSvVHK+hApTCM25UPG17dyIrf65BRNDZxW7n7my0Y9WW2NNJp7+Nu5yVslxvJgM1M7H+GnVtFliBQ=="
+                length="36796279"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.55.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.54.0</title>
             <description>
