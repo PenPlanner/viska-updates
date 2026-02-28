@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.57.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.57.0</h2>
+                    <ul>
+                        <li>Control Center now resizes smoothly as content changes.</li>
+                        <li>Karaoke-style transcription text is better spaced and easier to read.</li>
+                        <li>Settings panels look and feel more polished throughout.</li>
+                        <li>Stability and performance improvements under the hood.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 20:20:07 +0000</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>0.57.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.57.0/Viska.zip"
+                sparkle:edSignature="adHeB9h7rnuifCISNljPYiZHpfEOQv+ZCsHWuMwV6D7/PDpdsc9+LU1eFAGxne3WNVKP9nufC0ZU7J4v6E5kAQ=="
+                length="36809606"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.56.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.55.0</title>
             <description>
