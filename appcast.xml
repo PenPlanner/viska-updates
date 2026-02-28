@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.55.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.55.0</h2>
+                    <ul>
+                        <li>Gift codes: redeem a code to unlock Viska Pro or Ultra access.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 18:16:51 +0000</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>0.55.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.55.0/Viska.zip"
+                sparkle:edSignature="ll77ZnkztQyG3NbZ5JmFfEv/1zItM1TeskBt8QinAkmH8W8vdDh2sOnMIMKIn9ROz6H9+74IQ9orRQrhzQn8Ag=="
+                length="36830877"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.54.0</title>
             <description>
                 <![CDATA[
@@ -27,7 +50,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.50.0</title>
             <description>
