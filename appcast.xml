@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.48.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.48.0</h2>
+                    <ul>
+                        <li>New Appearance settings let you customize the visualizer style, colors, and window behavior.</li>
+                        <li>Choose from 4 waveform styles, 10 idle animations, and 8 color themes for the recorder.</li>
+                        <li>Text-to-speech now includes speed controls and automatic language detection.</li>
+                        <li>The app interface is now available in 32 languages.</li>
+                        <li>Fixed several text-to-speech reliability and audio playback issues.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 10:35:38 +0000</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.48.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.48.0/Viska.zip"
+                sparkle:edSignature="PCbCxWBInbfhu+vyk8i4NsGvS5OYSjoOOR9lUb2wDrMxZAlP0RQySIOdqxAZizXUBwoXG/9xH4MzgD865pKYBg=="
+                length="57788494"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.47.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.46.0</title>
             <description>
