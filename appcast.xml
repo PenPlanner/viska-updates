@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.60.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.60.0</h2>
+                    <ul>
+                        <li>Fixed a crash that could occur when closing or animating windows.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 22:39:16 +0000</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.60.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.60.0/Viska.zip"
+                sparkle:edSignature="8XRRg3rwBFMLKmIzClxSK1ArRnofyK/O+2q6/mvNcFLvEiRyBmphQYPXG9D+sez1cZ/kLxpVsEo4re3v8MVUBA=="
+                length="36791397"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.59.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.58.0</title>
             <description>
