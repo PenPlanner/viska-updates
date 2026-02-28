@@ -12,20 +12,18 @@
                 <![CDATA[
                     <h2>What's New in 0.54.0</h2>
                     <ul>
-                        <li>You can now use your voice to ask questions in the Support chat.</li>
-                        <li>The in-app help assistant gives more accurate and detailed answers.</li>
                         <li>Stability and performance improvements.</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>lör, 28 feb. 2026 15:07:47 +0000</pubDate>
-            <sparkle:version>59</sparkle:version>
+            <pubDate>lör, 28 feb. 2026 16:22:25 +0000</pubDate>
+            <sparkle:version>60</sparkle:version>
             <sparkle:shortVersionString>0.54.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/PenPlanner/viska-updates/releases/download/v0.54.0/Viska.zip"
-                sparkle:edSignature="S5er2FDBE0RVU5QnOuOuT1+iVdv2xYQ+uEeN8iGRQSpJtRbcl5NqKbu5ansGy7Gl7sBDN+buBBKycIVC/2c7Dg=="
-                length="36826092"
+                sparkle:edSignature="Usz/gxocpPDTyYiXlHxCz4PncXV/mem/CU4DQ9cz05OB0aa4BL7qGgHCZA7XKi5XBu27DUuyxuRdFGRYPax5AQ=="
+                length="36825728"
                 type="application/octet-stream"
             />
         </item>
