@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.58.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.58.0</h2>
+                    <ul>
+                        <li>The Control Center window can now be freely resized to fit your workflow.</li>
+                        <li>Compact mode includes improved layout polish for a cleaner look.</li>
+                        <li>Stability and performance improvements under the hood.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 21:23:48 +0000</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>0.58.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.58.0/Viska.zip"
+                sparkle:edSignature="KLkMek44ll2ENj+prjecvUxMu/eTEYmEj3G0R3P7NX1fJcFNHPMPZLoE/RJf6dnvXVZIypX7PadD0kqpXpIIAg=="
+                length="36809903"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.57.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.56.0</title>
             <description>
