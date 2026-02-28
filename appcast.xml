@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.50.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.50.0</h2>
+                    <ul>
+                        <li>New onboarding guide helps you discover output modes, backends, and privacy features at a glance.</li>
+                        <li>Upgrade screen now includes a monthly/yearly billing toggle for easy plan comparison.</li>
+                        <li>Pro and Ultra feature cards are clearer, making it easier to choose the right plan.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 28 feb. 2026 11:44:06 +0000</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.50.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.50.0/Viska.zip"
+                sparkle:edSignature="hk0vIJsbW8OjY0IwWk+F8HFLI395rGqjx66pUjPY/H/+S4WhX/BiI3Fb4kRrYl4vTD/oemtgIO8rfPOr7noWAA=="
+                length="57890569"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.48.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.47.0</title>
             <description>
