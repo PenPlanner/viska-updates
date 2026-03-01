@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.69.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.69.0</h2>
+                    <ul>
+                        <li>New preset editor lets you create and customize AI presets in a clean two-column layout.</li>
+                        <li>Text-to-speech support added so Viska can read your transcriptions aloud.</li>
+                        <li>Transparent panel mode now works correctly across all panel sizes.</li>
+                        <li>Simple Mode now shows output and AI rows for a more complete experience.</li>
+                        <li>Settings and appearance polish with various visual improvements throughout.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 22:23:04 +0000</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>0.69.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.69.0/Viska.zip"
+                sparkle:edSignature="XuVr8OgwK9DlyJmW/qFPLyy4DgtSo0d0t+uaHrnbolZWn1T2LFT3gwSyO7ffDWfuGiis0p+FCALK4mXqldedDA=="
+                length="51492426"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.68.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.67.0</title>
             <description>
