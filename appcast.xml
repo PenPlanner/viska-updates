@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.61.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.61.0</h2>
+                    <ul>
+                        <li>Local AI transcription now shows accurate download progress and model details.</li>
+                        <li>WhisperKit language selection works correctly across all supported languages.</li>
+                        <li>Stability improvements and bug fixes.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 11:02:01 +0000</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>0.61.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.61.0/Viska.zip"
+                sparkle:edSignature="A/YT5EEnAtxX5FPaT0i9LAQXLkaYUkcBO5QmYR+R4YqFpn85kJN3ShmM2cX7scOcI3LxmY0Ns3ymDqd4jQUTDg=="
+                length="36879575"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.60.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.59.0</title>
             <description>
