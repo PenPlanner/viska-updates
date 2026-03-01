@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.65.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.65.0</h2>
+                    <ul>
+                        <li>New voices added: choose from FluidAudio text-to-speech engines for natural-sounding playback.</li>
+                        <li>Speech recognition now starts faster with streaming transcription support.</li>
+                        <li>Viska can now detect when you stop speaking and respond more naturally.</li>
+                        <li>Speaker identification lets you see who said what in multi-person recordings.</li>
+                        <li>A compact audio visualizer now appears inline while text-to-speech plays.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 19:09:47 +0000</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>0.65.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.65.0/Viska.zip"
+                sparkle:edSignature="M0u7MEoiP6Mtoh5EDUkb4oDihX6CRTSIGw1O7TfZxCkaGWBgh0p2+7w9Onz0UAGry2WOEWtOgU4HwIEYDK1DDA=="
+                length="51457819"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.64.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.63.0</title>
             <description>
