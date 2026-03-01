@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.62.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.62.0</h2>
+                    <ul>
+                        <li>Local AI transcription is faster and more reliable.</li>
+                        <li>Swedish language detection now works correctly with on-device transcription.</li>
+                        <li>The Settings language picker displays properly across all screen sizes.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 11:27:53 +0000</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.62.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.62.0/Viska.zip"
+                sparkle:edSignature="jOIvNjxn3U3DBkUt489AtRs59LTxde1RM9AkMb3odjSXDJpF5W8iKBy6DsgWau25MF6xrUixU/Ua4v+cWBdmAQ=="
+                length="36877692"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.61.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.60.0</title>
             <description>
