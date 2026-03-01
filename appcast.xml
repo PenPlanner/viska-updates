@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.63.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.63.0</h2>
+                    <ul>
+                        <li>Select and delete multiple notes or reports at once with the new bulk delete feature.</li>
+                        <li>Improved accuracy when transcribing Swedish speech using the local AI model.</li>
+                        <li>Enhanced local AI performance and reliability.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 13:04:00 +0000</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>0.63.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.63.0/Viska.zip"
+                sparkle:edSignature="2SzXujjTjfv7lJRBAjdoBwMPmvtDRc9M5T8+Geqh4PeloE+GwPffN1FppRfO/VdD6GkgCf8t8qYoC+sRL1OvAg=="
+                length="36937185"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.62.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.61.0</title>
             <description>
