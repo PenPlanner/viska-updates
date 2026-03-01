@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.68.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.68.0</h2>
+                    <ul>
+                        <li>Pause and resume recordings directly from the floating recorder panel.</li>
+                        <li>Stop or cancel a paused recording using the new control buttons.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 20:50:34 +0000</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>0.68.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.68.0/Viska.zip"
+                sparkle:edSignature="321qcbfnRJDzBDDso321BEsMo7PFLiPiGKOTUvLGsR56fUTAaC93WwkJkHGb+ya2E6C3xFiZV/E3Wz1B9Y2UBQ=="
+                length="51469202"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.67.0</title>
             <description>
                 <![CDATA[
@@ -27,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.65.0</title>
             <description>
