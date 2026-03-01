@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.64.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.64.0</h2>
+                    <ul>
+                        <li>Cloud translation is now available to all users, with limits based on your plan.</li>
+                        <li>Nordic languages added: Swedish, Danish, Norwegian, and Finnish for translation.</li>
+                        <li>Local AI model cards now show RAM requirements and device compatibility.</li>
+                        <li>Local storage size display is more accurate, including text-to-speech models.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 01 mars 2026 14:12:01 +0000</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>0.64.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.64.0/Viska.zip"
+                sparkle:edSignature="EU8wzfox38QarczhzQj7h0tnIPaIolEZu6SYb/5chSopSpAHN+ZTcA1VJSm57aqDanwllDacoM+CGir8Mh9FBA=="
+                length="36970060"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.63.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.62.0</title>
             <description>
