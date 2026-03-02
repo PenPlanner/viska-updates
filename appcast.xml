@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.86.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.86.0</h2>
+                    <ul>
+                        <li>Fixed an issue where the local Kyutai speech model failed to load correctly.</li>
+                        <li>Improved reliability of the real-time streaming transcription toggle.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 21:42:13 +0000</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>0.86.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.86.0/Viska.zip"
+                sparkle:edSignature="VENoY/TRxhA6C+WBsqyGIH8f7e78JIZy1wDUqSYF7IG8xr7hWLhYP7TiSGSOM4dXIUGdv1RIRWXP2XiQATtaBQ=="
+                length="68722509"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.84.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.83.0</title>
             <description>
