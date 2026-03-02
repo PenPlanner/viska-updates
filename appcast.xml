@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.77.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.77.0</h2>
+                    <ul>
+                        <li>Settings are now organized into clear, logical sections for easier navigation.</li>
+                        <li>Text-to-speech support added — have Viska read your transcriptions aloud.</li>
+                        <li>Subscription management has been updated with improved clarity and options.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 14:00:46 +0000</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>0.77.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.77.0/Viska.zip"
+                sparkle:edSignature="r3m1ojMs4/jRBrfFqKowrDtXFBtckVA4tJ+2mAzhbfPvnCv0wgkdHtEBPZn6Jgzo2AMO46hATXSJ+8h3D6dcBA=="
+                length="51460695"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.76.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.75.0</title>
             <description>
