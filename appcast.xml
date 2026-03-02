@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.75.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.75.0</h2>
+                    <ul>
+
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 12:53:31 +0000</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>0.75.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.75.0/Viska.zip"
+                sparkle:edSignature="lybEB2ggH84mKTbE1KPDMvMm4RCr4ePZK5dIHQudlz3dQYHuTORGuWLiOUTHX5PCvPJ0M/25e0xwM39hjS5YBw=="
+                length="51456408"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.74.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.73.0</title>
             <description>
