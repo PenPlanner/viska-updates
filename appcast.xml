@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.76.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.76.0</h2>
+                    <ul>
+                        <li>Improved text-to-speech with updated voice services for smoother, more natural playback.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 13:18:16 +0000</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>0.76.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.76.0/Viska.zip"
+                sparkle:edSignature="RXi3qvfdfEeDeZyFWikQESK81o/Ox0DSrUsYkeYsw9+5UiWD93QG7dVrVEuD0brVn4uQpqVwVNcp7pga75r/Cg=="
+                length="51456029"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.75.0</title>
             <description>
                 <![CDATA[
@@ -27,7 +50,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.74.0</title>
             <description>
