@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.71.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.71.0</h2>
+                    <ul>
+                        <li>New settings panel makes it easier to manage and switch between local AI models.</li>
+                        <li>Recorder panel controls are more polished with improved hover and interaction feedback.</li>
+                        <li>Pin button now supports three states: unpinned, pinned, and position-locked.</li>
+                        <li>Backend toggle lets you switch between cloud and local transcription directly from the recorder.</li>
+                        <li>Stability and performance improvements throughout.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 07:57:27 +0000</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>0.71.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.71.0/Viska.zip"
+                sparkle:edSignature="ntDIGY6yFYkXFXNFxJABnJUjwgfeRzb83K0xgmcbsRYlYdFzbJXCLttOY+BO5w0ta5DrZ7V41w8OA30eyPwJDg=="
+                length="51512217"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.70.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.69.0</title>
             <description>
