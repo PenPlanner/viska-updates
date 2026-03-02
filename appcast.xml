@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.72.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.72.0</h2>
+                    <ul>
+                        <li>Transcription now streams in real time as you speak, so you see results instantly.</li>
+                        <li>Copy transcriptions directly to your clipboard with one click.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 09:38:11 +0000</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>0.72.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.72.0/Viska.zip"
+                sparkle:edSignature="HH/yhdwD6z0hp2MCy8ey6Q9QAoudwR1EhxUs37CxRnMAeub/6JuDHLb5Mlh3IYAzP/r5hnLw82XIRrzCD0nhAQ=="
+                length="51520810"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.71.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.70.0</title>
             <description>
