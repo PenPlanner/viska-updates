@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.73.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.73.0</h2>
+                    <ul>
+                        <li>Read Aloud is now accessible directly from the toolbar for faster access.</li>
+                        <li>Improved memory handling for Read Aloud, reducing resource usage over time.</li>
+                        <li>Settings interface has been polished with a cleaner, more consistent look.</li>
+                        <li>Gift code activation is now more reliable for subscription upgrades.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 10:53:26 +0000</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>0.73.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.73.0/Viska.zip"
+                sparkle:edSignature="PyqjsUJT7xvTP/iIRkbfE3bM5JCVHuxmCF8Nf11L/GWiULhSRgSt79BhDWIc/XtwzLEqBKKR7bsRpo48MjLfDg=="
+                length="51518753"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.72.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.71.0</title>
             <description>
