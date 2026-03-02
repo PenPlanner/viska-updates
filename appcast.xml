@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.74.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.74.0</h2>
+                    <ul>
+                        <li>Live transcription now appears faster with no ghost text while you type.</li>
+                        <li>Recording controls have a refreshed, cleaner look.</li>
+                        <li>Subscription screen has been updated with a new design.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 11:41:04 +0000</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>0.74.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.74.0/Viska.zip"
+                sparkle:edSignature="5LeKzn0nO4DjKYTdFoozMrbWjjYtMcyT0ol6PdDr94ogj3A3C67KdHuSq7j+vneBfczZDKMWeqdPXGpY4KOsCg=="
+                length="51530668"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.73.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.72.0</title>
             <description>
