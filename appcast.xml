@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.83.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.83.0</h2>
+                    <ul>
+                        <li>Stream Deck integration is now available to all users, no subscription required.</li>
+                        <li>Text-to-speech now works consistently across all dictation modes.</li>
+                        <li>Voice output quality and behavior has been improved throughout the app.</li>
+                        <li>The app is now available in more languages with refined translations.</li>
+                        <li>Fixed a crash that could occur when using the Stream Deck plugin.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 20:49:38 +0000</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>0.83.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.83.0/Viska.zip"
+                sparkle:edSignature="YmBN5KnI0z5qs3/JoPqVeFa9fxc9haG22sLbi0mE20ViRrfT+fB4H5oMwix5Xm4FcPhNlXxc0TcqYQPBL/SUDw=="
+                length="51707309"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.81.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +59,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.80.0</title>
             <description>
