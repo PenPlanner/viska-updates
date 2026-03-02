@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.81.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.81.0</h2>
+                    <ul>
+                        <li>New local transcription engine (Kyutai) for faster, more private voice-to-text on your Mac.</li>
+                        <li>Cloned voice audio quality significantly improved with clearer, more natural playback.</li>
+                        <li>Annotations and custom prompts are now available to all users, no subscription required.</li>
+                        <li>Wake words updated with better defaults for more reliable voice activation.</li>
+                        <li>AI Mode is now hidden when using local-only mode, reducing interface clutter.</li>
+                        <li>Stability and interface improvements across settings, onboarding, and theme handling.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 19:48:41 +0000</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>0.81.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.81.0/Viska.zip"
+                sparkle:edSignature="Ngp0S3cvBlxHN0ERv5PQzrc5TGQsSAUey2u9Yw3S7x2+mdf8GyG2s9NeM8hjuegJXs3g+inuI3e2PV+P4c+PBw=="
+                length="51713025"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.80.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.79.0</title>
             <description>
