@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.79.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.79.0</h2>
+                    <ul>
+                        <li>Clone your own voice for a personalized text-to-speech experience.</li>
+                        <li>New spectrum visualizer displays a live audio waveform while recording.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 15:48:30 +0000</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>0.79.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.79.0/Viska.zip"
+                sparkle:edSignature="hVavERCpC/+5tFufKejSVOIvWl5RrPvGtPlI/FkOiwwkAa81Ruj/10dAM/VDDggl3m/i9He+8IaOYUYQooUZBg=="
+                length="51540345"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.78.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.77.0</title>
             <description>
