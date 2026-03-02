@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.80.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.80.0</h2>
+                    <ul>
+                        <li>Improved text-to-speech with better voice quality and reliability.</li>
+                        <li>New visual effects powered by Metal shaders for a smoother experience.</li>
+                        <li>Settings interface reorganized for easier navigation.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 17:48:22 +0000</pubDate>
+            <sparkle:version>86</sparkle:version>
+            <sparkle:shortVersionString>0.80.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.80.0/Viska.zip"
+                sparkle:edSignature="mji0iisVTAewHQgu8oH4g+Q2x+tiUpu99yL4hDhAwNNF0MdTt2niKVO1U50x0c7nRUdL1nfKA5o5bAGZ+HP7Dw=="
+                length="51574556"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.79.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.78.0</title>
             <description>
