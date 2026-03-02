@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.84.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.84.0</h2>
+                    <ul>
+                        <li>Updated Stream Deck plugin to version 1.6.0 with improved reliability and compatibility.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 21:05:02 +0000</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>0.84.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.84.0/Viska.zip"
+                sparkle:edSignature="BO+s4noTLg8/TvLvwR2MtMFDWdawUIE/nXOtiaDHpghGMYWr6dUX1/sFgW0HZXddyAeg94e55NX6gBPGWkIXCQ=="
+                length="68711448"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.83.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.81.0</title>
             <description>
