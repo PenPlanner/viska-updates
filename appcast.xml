@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.78.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.78.0</h2>
+                    <ul>
+                        <li>Improved account management tools for faster support and issue resolution.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 02 mars 2026 14:40:25 +0000</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.78.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.78.0/Viska.zip"
+                sparkle:edSignature="PQMZ9k2fr1/6wLovI79SB497MDtAwhUNFfQhYL4ZK980nthbjL9c3uog873LELrTF9I7GxZG8MvWRaKVws3rAw=="
+                length="51464349"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.77.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.76.0</title>
             <description>
