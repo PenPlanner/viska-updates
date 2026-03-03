@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.88.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.88.0</h2>
+                    <ul>
+                        <li>New rate limit notification lets you know when you're approaching your usage limit.</li>
+                        <li>Improved onboarding experience makes getting started faster and clearer.</li>
+                        <li>Text-to-speech playback is smoother and more reliable.</li>
+                        <li>Faster app updates and resource loading in the background.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 13:14:10 +0000</pubDate>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>0.88.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/Viska.zip"
+                sparkle:edSignature="kw+pNcBABX29o5rkaPRbMRppP3RrXAKrgx2mf+Qy0ZjjD9Am0ybz0gawGPNfItccObOY++dMaO+9sKylNAaMAw=="
+                length="68745639"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.87.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.86.0</title>
             <description>
