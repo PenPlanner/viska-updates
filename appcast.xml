@@ -2,9 +2,34 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Viska Updates</title>
-        <link>https://github.com/PenPlanner/viska-updates/releases</link>
+        <link>https://github.com/viska-ai/viska-updates/releases</link>
         <description>Most recent updates to Viska</description>
         <language>en</language>
+
+        <item>
+            <title>Version 0.89.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.89.0</h2>
+                    <ul>
+                        <li>Attach file paths to your transcriptions with the new File References feature.</li>
+                        <li>Improved onboarding with new toggles, info modals, and smoother animations.</li>
+                        <li>Updated subscription options and branding across the app.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 14:40:18 +0000</pubDate>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>0.89.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/Viska.zip"
+                sparkle:edSignature="otg0sz1wl1wwXiRmdjLKQVfv75tlq+CwCxd+QFW0eKcQboFZ8+Q7ThM97eQhv7APWYyMeiYc8BPtXdjQGYfKCg=="
+                length="68821506"
+                type="application/octet-stream"
+            />
+        </item>
 
         <item>
             <title>Version 0.88.0</title>
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.87.0</title>
             <description>
@@ -48,7 +72,7 @@
             <sparkle:shortVersionString>0.87.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.87.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.87.0/Viska.zip"
                 sparkle:edSignature="xPqrJEh//t7HB81txi0K7e4C6DQBBJwCzvgXBnmnBQaBwHcsMQaQEbRNOON/D2D3G8aXI7DMZdhSJJ0T8K5gAg=="
                 length="68722787"
                 type="application/octet-stream"
@@ -71,7 +95,7 @@
             <sparkle:shortVersionString>0.86.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.86.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.86.0/Viska.zip"
                 sparkle:edSignature="VENoY/TRxhA6C+WBsqyGIH8f7e78JIZy1wDUqSYF7IG8xr7hWLhYP7TiSGSOM4dXIUGdv1RIRWXP2XiQATtaBQ=="
                 length="68722509"
                 type="application/octet-stream"
@@ -93,7 +117,7 @@
             <sparkle:shortVersionString>0.84.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.84.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.84.0/Viska.zip"
                 sparkle:edSignature="BO+s4noTLg8/TvLvwR2MtMFDWdawUIE/nXOtiaDHpghGMYWr6dUX1/sFgW0HZXddyAeg94e55NX6gBPGWkIXCQ=="
                 length="68711448"
                 type="application/octet-stream"
@@ -119,7 +143,7 @@
             <sparkle:shortVersionString>0.83.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.83.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.83.0/Viska.zip"
                 sparkle:edSignature="YmBN5KnI0z5qs3/JoPqVeFa9fxc9haG22sLbi0mE20ViRrfT+fB4H5oMwix5Xm4FcPhNlXxc0TcqYQPBL/SUDw=="
                 length="51707309"
                 type="application/octet-stream"
@@ -145,7 +169,7 @@
             <sparkle:shortVersionString>0.81.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.81.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.81.0/Viska.zip"
                 sparkle:edSignature="Ngp0S3cvBlxHN0ERv5PQzrc5TGQsSAUey2u9Yw3S7x2+mdf8GyG2s9NeM8hjuegJXs3g+inuI3e2PV+P4c+PBw=="
                 length="51713025"
                 type="application/octet-stream"
@@ -169,7 +193,7 @@
             <sparkle:shortVersionString>0.80.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.80.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.80.0/Viska.zip"
                 sparkle:edSignature="mji0iisVTAewHQgu8oH4g+Q2x+tiUpu99yL4hDhAwNNF0MdTt2niKVO1U50x0c7nRUdL1nfKA5o5bAGZ+HP7Dw=="
                 length="51574556"
                 type="application/octet-stream"
@@ -192,7 +216,7 @@
             <sparkle:shortVersionString>0.79.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.79.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.79.0/Viska.zip"
                 sparkle:edSignature="hVavERCpC/+5tFufKejSVOIvWl5RrPvGtPlI/FkOiwwkAa81Ruj/10dAM/VDDggl3m/i9He+8IaOYUYQooUZBg=="
                 length="51540345"
                 type="application/octet-stream"
@@ -214,7 +238,7 @@
             <sparkle:shortVersionString>0.78.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.78.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.78.0/Viska.zip"
                 sparkle:edSignature="PQMZ9k2fr1/6wLovI79SB497MDtAwhUNFfQhYL4ZK980nthbjL9c3uog873LELrTF9I7GxZG8MvWRaKVws3rAw=="
                 length="51464349"
                 type="application/octet-stream"
@@ -238,7 +262,7 @@
             <sparkle:shortVersionString>0.77.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.77.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.77.0/Viska.zip"
                 sparkle:edSignature="r3m1ojMs4/jRBrfFqKowrDtXFBtckVA4tJ+2mAzhbfPvnCv0wgkdHtEBPZn6Jgzo2AMO46hATXSJ+8h3D6dcBA=="
                 length="51460695"
                 type="application/octet-stream"
@@ -260,7 +284,7 @@
             <sparkle:shortVersionString>0.76.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.76.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.76.0/Viska.zip"
                 sparkle:edSignature="RXi3qvfdfEeDeZyFWikQESK81o/Ox0DSrUsYkeYsw9+5UiWD93QG7dVrVEuD0brVn4uQpqVwVNcp7pga75r/Cg=="
                 length="51456029"
                 type="application/octet-stream"
@@ -281,7 +305,7 @@
             <sparkle:shortVersionString>0.75.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.75.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.75.0/Viska.zip"
                 sparkle:edSignature="lybEB2ggH84mKTbE1KPDMvMm4RCr4ePZK5dIHQudlz3dQYHuTORGuWLiOUTHX5PCvPJ0M/25e0xwM39hjS5YBw=="
                 length="51456408"
                 type="application/octet-stream"
@@ -305,7 +329,7 @@
             <sparkle:shortVersionString>0.74.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.74.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.74.0/Viska.zip"
                 sparkle:edSignature="5LeKzn0nO4DjKYTdFoozMrbWjjYtMcyT0ol6PdDr94ogj3A3C67KdHuSq7j+vneBfczZDKMWeqdPXGpY4KOsCg=="
                 length="51530668"
                 type="application/octet-stream"
@@ -330,7 +354,7 @@
             <sparkle:shortVersionString>0.73.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.73.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.73.0/Viska.zip"
                 sparkle:edSignature="PyqjsUJT7xvTP/iIRkbfE3bM5JCVHuxmCF8Nf11L/GWiULhSRgSt79BhDWIc/XtwzLEqBKKR7bsRpo48MjLfDg=="
                 length="51518753"
                 type="application/octet-stream"
@@ -353,7 +377,7 @@
             <sparkle:shortVersionString>0.72.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.72.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.72.0/Viska.zip"
                 sparkle:edSignature="HH/yhdwD6z0hp2MCy8ey6Q9QAoudwR1EhxUs37CxRnMAeub/6JuDHLb5Mlh3IYAzP/r5hnLw82XIRrzCD0nhAQ=="
                 length="51520810"
                 type="application/octet-stream"
@@ -378,7 +402,7 @@
             <sparkle:shortVersionString>0.71.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.71.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.71.0/Viska.zip"
                 sparkle:edSignature="ntDIGY6yFYkXFXNFxJABnJUjwgfeRzb83K0xgmcbsRYlYdFzbJXCLttOY+BO5w0ta5DrZ7V41w8OA30eyPwJDg=="
                 length="51512217"
                 type="application/octet-stream"
@@ -400,7 +424,7 @@
             <sparkle:shortVersionString>0.70.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.70.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.70.0/Viska.zip"
                 sparkle:edSignature="z2xcLTA27Y/xajWqlmZihuqA1ylOqN1F/5VfswEs27QzO3mN3DqikNPJDhHWKcATcmJTXsYVHUaRxGtehFSLCg=="
                 length="51509744"
                 type="application/octet-stream"
@@ -425,7 +449,7 @@
             <sparkle:shortVersionString>0.69.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.69.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.69.0/Viska.zip"
                 sparkle:edSignature="XuVr8OgwK9DlyJmW/qFPLyy4DgtSo0d0t+uaHrnbolZWn1T2LFT3gwSyO7ffDWfuGiis0p+FCALK4mXqldedDA=="
                 length="51492426"
                 type="application/octet-stream"
@@ -448,7 +472,7 @@
             <sparkle:shortVersionString>0.68.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.68.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.68.0/Viska.zip"
                 sparkle:edSignature="321qcbfnRJDzBDDso321BEsMo7PFLiPiGKOTUvLGsR56fUTAaC93WwkJkHGb+ya2E6C3xFiZV/E3Wz1B9Y2UBQ=="
                 length="51469202"
                 type="application/octet-stream"
@@ -469,7 +493,7 @@
             <sparkle:shortVersionString>0.67.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.67.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.67.0/Viska.zip"
                 sparkle:edSignature="ZCNeKCf89a/X+snWpxXfzVegBOKFA1V0agTGOUMUGpaukDbGvzAyEkjFbAxWSCk9CZc2O4cABhFAbpXUljdZCw=="
                 length="51469587"
                 type="application/octet-stream"
@@ -494,7 +518,7 @@
             <sparkle:shortVersionString>0.65.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.65.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.65.0/Viska.zip"
                 sparkle:edSignature="M0u7MEoiP6Mtoh5EDUkb4oDihX6CRTSIGw1O7TfZxCkaGWBgh0p2+7w9Onz0UAGry2WOEWtOgU4HwIEYDK1DDA=="
                 length="51457819"
                 type="application/octet-stream"
@@ -519,7 +543,7 @@
             <sparkle:shortVersionString>0.64.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.64.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.64.0/Viska.zip"
                 sparkle:edSignature="EU8wzfox38QarczhzQj7h0tnIPaIolEZu6SYb/5chSopSpAHN+ZTcA1VJSm57aqDanwllDacoM+CGir8Mh9FBA=="
                 length="36970060"
                 type="application/octet-stream"
@@ -542,7 +566,7 @@
             <sparkle:shortVersionString>0.63.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.63.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.63.0/Viska.zip"
                 sparkle:edSignature="2SzXujjTjfv7lJRBAjdoBwMPmvtDRc9M5T8+Geqh4PeloE+GwPffN1FppRfO/VdD6GkgCf8t8qYoC+sRL1OvAg=="
                 length="36937185"
                 type="application/octet-stream"
@@ -566,7 +590,7 @@
             <sparkle:shortVersionString>0.62.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.62.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.62.0/Viska.zip"
                 sparkle:edSignature="jOIvNjxn3U3DBkUt489AtRs59LTxde1RM9AkMb3odjSXDJpF5W8iKBy6DsgWau25MF6xrUixU/Ua4v+cWBdmAQ=="
                 length="36877692"
                 type="application/octet-stream"
@@ -589,7 +613,7 @@
             <sparkle:shortVersionString>0.61.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.61.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.61.0/Viska.zip"
                 sparkle:edSignature="A/YT5EEnAtxX5FPaT0i9LAQXLkaYUkcBO5QmYR+R4YqFpn85kJN3ShmM2cX7scOcI3LxmY0Ns3ymDqd4jQUTDg=="
                 length="36879575"
                 type="application/octet-stream"
@@ -611,7 +635,7 @@
             <sparkle:shortVersionString>0.60.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.60.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.60.0/Viska.zip"
                 sparkle:edSignature="8XRRg3rwBFMLKmIzClxSK1ArRnofyK/O+2q6/mvNcFLvEiRyBmphQYPXG9D+sez1cZ/kLxpVsEo4re3v8MVUBA=="
                 length="36791397"
                 type="application/octet-stream"
@@ -634,7 +658,7 @@
             <sparkle:shortVersionString>0.59.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.59.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.59.0/Viska.zip"
                 sparkle:edSignature="OWuo1vqR3J0VHbFH318q7oRcdFyUUFswsc3RCNe/LvN2zXSsYHiBJJ27cPE5dS2IFYn5mKtf4sipG9CQ3OSnBA=="
                 length="36789473"
                 type="application/octet-stream"
@@ -657,7 +681,7 @@
             <sparkle:shortVersionString>0.58.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.58.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.58.0/Viska.zip"
                 sparkle:edSignature="KLkMek44ll2ENj+prjecvUxMu/eTEYmEj3G0R3P7NX1fJcFNHPMPZLoE/RJf6dnvXVZIypX7PadD0kqpXpIIAg=="
                 length="36809903"
                 type="application/octet-stream"
@@ -681,7 +705,7 @@
             <sparkle:shortVersionString>0.57.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.57.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.57.0/Viska.zip"
                 sparkle:edSignature="adHeB9h7rnuifCISNljPYiZHpfEOQv+ZCsHWuMwV6D7/PDpdsc9+LU1eFAGxne3WNVKP9nufC0ZU7J4v6E5kAQ=="
                 length="36809606"
                 type="application/octet-stream"
@@ -706,7 +730,7 @@
             <sparkle:shortVersionString>0.56.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.56.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.56.0/Viska.zip"
                 sparkle:edSignature="gCuzibNRZuSvVHK+hApTCM25UPG17dyIrf65BRNDZxW7n7my0Y9WW2NNJp7+Nu5yVslxvJgM1M7H+GnVtFliBQ=="
                 length="36796279"
                 type="application/octet-stream"
@@ -728,7 +752,7 @@
             <sparkle:shortVersionString>0.55.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.55.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.55.0/Viska.zip"
                 sparkle:edSignature="ll77ZnkztQyG3NbZ5JmFfEv/1zItM1TeskBt8QinAkmH8W8vdDh2sOnMIMKIn9ROz6H9+74IQ9orRQrhzQn8Ag=="
                 length="36830877"
                 type="application/octet-stream"
@@ -749,7 +773,7 @@
             <sparkle:shortVersionString>0.54.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.54.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.54.0/Viska.zip"
                 sparkle:edSignature="Usz/gxocpPDTyYiXlHxCz4PncXV/mem/CU4DQ9cz05OB0aa4BL7qGgHCZA7XKi5XBu27DUuyxuRdFGRYPax5AQ=="
                 length="36825728"
                 type="application/octet-stream"
@@ -773,7 +797,7 @@
             <sparkle:shortVersionString>0.50.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.50.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.50.0/Viska.zip"
                 sparkle:edSignature="hk0vIJsbW8OjY0IwWk+F8HFLI395rGqjx66pUjPY/H/+S4WhX/BiI3Fb4kRrYl4vTD/oemtgIO8rfPOr7noWAA=="
                 length="57890569"
                 type="application/octet-stream"
@@ -798,7 +822,7 @@
             <sparkle:shortVersionString>0.48.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.48.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.48.0/Viska.zip"
                 sparkle:edSignature="PCbCxWBInbfhu+vyk8i4NsGvS5OYSjoOOR9lUb2wDrMxZAlP0RQySIOdqxAZizXUBwoXG/9xH4MzgD865pKYBg=="
                 length="57788494"
                 type="application/octet-stream"
@@ -822,7 +846,7 @@
             <sparkle:shortVersionString>0.47.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.47.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.47.0/Viska.zip"
                 sparkle:edSignature="H00cYqEmezZIZWuPEj9477DveUUMuIETSh7dgXkkhcUq8Lt04wwIm1nxQM3uqPChib3Vjw9u1FbUv3tmx0b6Cw=="
                 length="57769395"
                 type="application/octet-stream"
@@ -846,7 +870,7 @@
             <sparkle:shortVersionString>0.46.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.46.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.46.0/Viska.zip"
                 sparkle:edSignature="5xCc6lSIAJHwI94LY+uTYWUnNzE+Rzeh9rWdtXOys70WZ0n9QfczzXWkkGzBissGBUpmCdMCygGX+OR0mOKOBw=="
                 length="57766484"
                 type="application/octet-stream"
@@ -869,7 +893,7 @@
             <sparkle:shortVersionString>0.44.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.44.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.44.0/Viska.zip"
                 sparkle:edSignature="BEvBZl1WfBhxG7kfLX4NUmasKDWhclh4ZN1NQhEe9+FE4wxd267b4FbnNHoZZl8sCdfXm60kjFuJT1a06JOHCQ=="
                 length="57747908"
                 type="application/octet-stream"
@@ -894,7 +918,7 @@
             <sparkle:shortVersionString>0.43.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.43.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.43.0/Viska.zip"
                 sparkle:edSignature="eicnAaZGuyi3RzD6fuD3EtUwylwrf06LvH6ZwaBOKoD4k0ixeI3aarlu/mR/lsjjWaMPEVwprQxS7PzpX9pWDg=="
                 length="57647999"
                 type="application/octet-stream"
@@ -920,7 +944,7 @@
             <sparkle:shortVersionString>0.42.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.42.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.42.0/Viska.zip"
                 sparkle:edSignature="tG4VXTu2u2mcNWTxdAi1bTG9+Xk5dB7IUPg+7makfgaAZYI0BrFVZ1Cbxf9aVF/tUPgR8iE3TkXDhxKH35pVDQ=="
                 length="56877850"
                 type="application/octet-stream"
@@ -944,7 +968,7 @@
             <sparkle:shortVersionString>0.41.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.41.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.41.0/Viska.zip"
                 sparkle:edSignature="PqsSOd0gfTZX8ztlTQq1FuRfpZ1WbNsjf27Vxd+FqK63d8kUVjorndefqGpL58XzK7yERK686blkbprzaQQ+BA=="
                 length="56868783"
                 type="application/octet-stream"
@@ -967,7 +991,7 @@
             <sparkle:shortVersionString>0.40.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.40.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.40.0/Viska.zip"
                 sparkle:edSignature="tTKmVZTHIg4ScWyztkm92Z3uH7Jmehl/WKFfrDc9BtzELfghld1LPQBf/2B8uw6X8uIXBwXM3t52WCGSZZ/4Dw=="
                 length="56859249"
                 type="application/octet-stream"
@@ -990,7 +1014,7 @@
             <sparkle:shortVersionString>0.39.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.39.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.39.0/Viska.zip"
                 sparkle:edSignature="y59Gqxo4EU3zdesdBjYqeRINNgd4+J9EJE9wQi26eIsJKH6b4MOfkf30Fpsd0T0XuNIrFvJnHBrvHmb8vYVBCw=="
                 length="56777921"
                 type="application/octet-stream"
@@ -1016,7 +1040,7 @@
             <sparkle:shortVersionString>0.38.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.38.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.38.0/Viska.zip"
                 sparkle:edSignature="kwHGh95DDcz2b1PIqN4AwVdoC165fvTdxmlmOfIEU1ffxUW/NKzhh2sF9yiFvZPU+rWHOeBA6/M2ZI9a9nMLAQ=="
                 length="56777309"
                 type="application/octet-stream"
@@ -1039,7 +1063,7 @@
             <sparkle:shortVersionString>0.37.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.37.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.37.0/Viska.zip"
                 sparkle:edSignature="mwK82UayNCkbor1GssFVEKtI20JIXncZ/cyXwlgijHnIKpdLqWM68wQKW3YsbtJ4Y06njVnXAN932D1mV7xRBQ=="
                 length="56778322"
                 type="application/octet-stream"
@@ -1061,7 +1085,7 @@
             <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.36.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.36.0/Viska.zip"
                 sparkle:edSignature="8UgeJxkXJSe7ZP1pkvKXrpP/CabB9ILHP5uwzxnEL2tbqByclfELWMwE6qeGUsPN299PqFfYMfFEA1hXN3scBw=="
                 length="37814237"
                 type="application/octet-stream"
@@ -1085,7 +1109,7 @@
             <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.35.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.35.0/Viska.zip"
                 sparkle:edSignature="bKymBfO+hIKPjjfTR2ESAXQW99zWgq6Z26SPBYw8V4aAWtZRiplH9GZzdbfeeZIjslIWOuTiER7JZ31wOnk0CQ=="
                 length="37802632"
                 type="application/octet-stream"
@@ -1108,7 +1132,7 @@
             <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.34.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.34.0/Viska.zip"
                 sparkle:edSignature="dk1E/KNJNNCZD+A7XVo/ISsjUXVnL+pW1ZfQwl81+C+BYK8wZenbOlZdcYC67R66wG/7GflZizM0Jzz1JBKKCg=="
                 length="37764216"
                 type="application/octet-stream"
@@ -1130,7 +1154,7 @@
             <sparkle:shortVersionString>0.33.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.33.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.33.0/Viska.zip"
                 sparkle:edSignature="e/WhILA3PxVl0evIndsdtKAP/xymyUDeZPk47HwKtW2yOwE4BL2Eu8o0Sw1mcXtcMEnFgB69Moun6QnSqRwUAg=="
                 length="37762585"
                 type="application/octet-stream"
@@ -1152,7 +1176,7 @@
             <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.32.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.32.0/Viska.zip"
                 sparkle:edSignature="dLrpfb/bb51SF5+mm3F7s8YlWJm+YQbejHxfaVP02hgwXdlmRpb+Kv35xZDGTkheBXXGNIUOT5AjVvfSD3kIAA=="
                 length="37761907"
                 type="application/octet-stream"
@@ -1174,7 +1198,7 @@
             <sparkle:shortVersionString>0.31.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.31.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.31.0/Viska.zip"
                 sparkle:edSignature="M0DL9T7bs6dfQhxaMhO69KsCTuouf417JTxNpKL5fOfRWr5WISXBpX4vcjW2SMudX0fBqnqWNSs7fdJ5KKc7DQ=="
                 length="37762849"
                 type="application/octet-stream"
@@ -1196,7 +1220,7 @@
             <sparkle:shortVersionString>0.30.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.30.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.30.0/Viska.zip"
                 sparkle:edSignature="QMpAJjvlvJ3UNZHwHA8Rdt/o4AKyMXT/PVunabthOBXTpC0QB1N8KQSwXHD01qGiTwzcVXOWVqKqBiWEeJ4JDA=="
                 length="37762532"
                 type="application/octet-stream"
@@ -1221,7 +1245,7 @@
             <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.29.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.29.0/Viska.zip"
                 sparkle:edSignature="wSssxE56PyVP3lgveUP1ByULe1iiAuvWLkq+qq8rZp9TNRLD6fj0HbgBCzDRhCOBVjziErlPAorJVA6A2ipbBg=="
                 length="37762828"
                 type="application/octet-stream"
@@ -1246,7 +1270,7 @@
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.28.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.28.0/Viska.zip"
                 sparkle:edSignature="WTynBAoTvTYFmcFP7JfQnV8j7O+n/wpUCT0w556f82Zss6d6O2HIcui76nNUrZ5nGk/sJuusOlzIXGUeWhzDBA=="
                 length="37732425"
                 type="application/octet-stream"
@@ -1269,7 +1293,7 @@
             <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.27.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.27.0/Viska.zip"
                 sparkle:edSignature="gFURr6Io7yCHhJQ0KrZB/j4KJZvnT5oxhm6cA9UXrc6R8Q4QQNFsrte1PvjnH8QVniR/59anJw004EURdlRiCQ=="
                 length="37636330"
                 type="application/octet-stream"
@@ -1293,7 +1317,7 @@
             <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.26.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.26.0/Viska.zip"
                 sparkle:edSignature="HDHsdJql61eS5H0WNVw0UqeoxXOya3FlXJO5Kh7xFVXq70ilrHcQmEo/DnPm8awqJyO3JYYHZQGSYYtQwYpzBQ=="
                 length="37636174"
                 type="application/octet-stream"
@@ -1318,7 +1342,7 @@
             <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.25.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.25.0/Viska.zip"
                 sparkle:edSignature="+ctA1v3jMMF+6tRYBmQd96rMkyS9JcYVtbPW504yz4otvoOemKKxHDuWNpFal698F8abXTdCVm2KLSFwJoCPAA=="
                 length="37636010"
                 type="application/octet-stream"
@@ -1342,7 +1366,7 @@
             <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.24.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.24.0/Viska.zip"
                 sparkle:edSignature="g9FTbyKSMNNt6LA7IYiZF6fY64YekfiCv/chtfpU7Bw5kuUo9KvzkOAMXSKmOCAcChltt2h61rCTqY06pDoJCQ=="
                 length="37562260"
                 type="application/octet-stream"
@@ -1367,7 +1391,7 @@
             <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.23.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.23.0/Viska.zip"
                 sparkle:edSignature="bVNGveBYy1/ZUMahpl+5S6HnpKohtwjn4sMAA2umDB0xWlKO+R0NEgAJmkAYXxMm3JD24jMRcByhPgsq7OnjAg=="
                 length="37558205"
                 type="application/octet-stream"
@@ -1392,7 +1416,7 @@
             <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.22.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.22.0/Viska.zip"
                 sparkle:edSignature="oUFjtHOq0L8Qh8Bnuf1uG3I6iEgtw09X1yqarEpyPbvkv2TojXTUP6WFoefIh7NE4TD7TMeh1eYbD3Iyi+0fCA=="
                 length="36648467"
                 type="application/octet-stream"
@@ -1416,7 +1440,7 @@
             <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.21.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.21.0/Viska.zip"
                 sparkle:edSignature="j/97cNyXhom7VI+7LHXZ3SZMLJi6UV5kr08jV0DAainFUL0DYGLm+lAfuL5RSHUp28Uv4Y8MKBKTd8kb1waaBA=="
                 length="36640322"
                 type="application/octet-stream"
@@ -1440,7 +1464,7 @@
             <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.20.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.20.0/Viska.zip"
                 sparkle:edSignature="J6oPATWpRw0lpM1oV2LQFXB6GBM5YP0cPbRWdCoiZ/gQN/tNuxc0eZRmNRrECrJdNu1n6/tRCV/nyOFNwFKPAQ=="
                 length="36647345"
                 type="application/octet-stream"
@@ -1465,7 +1489,7 @@
             <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.19.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.19.0/Viska.zip"
                 sparkle:edSignature="3f5H/xpTNunrBEUk5vgazJTmvJNYXouLc90twG259h3WM+E0pwHndOHijqfk+R6u5lm+JDsH71WezRfPyf1jAg=="
                 length="36624802"
                 type="application/octet-stream"
@@ -1488,7 +1512,7 @@
             <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.18.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.18.0/Viska.zip"
                 sparkle:edSignature="ciwmAfEHICo+mkv8sQ8vnlrYUMWUiSo/8eRGm0HFA20CbGzUxNSl0S57MkFkkBT9hBAKEACUi438NTRa7oLfAQ=="
                 length="36578620"
                 type="application/octet-stream"
@@ -1512,7 +1536,7 @@
             <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.17.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.17.0/Viska.zip"
                 sparkle:edSignature="dQhyaZtXbz9nZJIWjRanEIkzxNRiqpT/y7gRPpqp1g/AYyQ2j8qSbg1P0kPaEx2uL370bq1KR8RHkCP3yutJAw=="
                 length="36570849"
                 type="application/octet-stream"
@@ -1535,7 +1559,7 @@
             <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.16.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.16.0/Viska.zip"
                 sparkle:edSignature="7DQbH+idImN+eywkv1D0YEd8rUTpygvRWAHQt9xDnrBxsq2uQwou1B3LHFFSP/X9qS3ES20hr3SFeVlwKvVnCw=="
                 length="36570320"
                 type="application/octet-stream"
@@ -1560,7 +1584,7 @@
             <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.15.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.15.0/Viska.zip"
                 sparkle:edSignature="kkFbVWSETAN6cXwie2jIjCfU4z5hjNEBPQEIuv+e/u25c7DcLc9UD5R4nAVbpq1VwqNZXt/4IyO5j103HJvDDg=="
                 length="36534786"
                 type="application/octet-stream"
@@ -1584,7 +1608,7 @@
             <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.14.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.14.0/Viska.zip"
                 sparkle:edSignature="Mljbo2nLg0M6XL/0fldfwsKh5erXagLjGuOpDQDvXvBsVmaRryLNVUKCNYpj+Z5g0nmN3liOWoSLQ7Zq9xLiDQ=="
                 length="36469518"
                 type="application/octet-stream"
@@ -1607,7 +1631,7 @@
             <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.13.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.13.0/Viska.zip"
                 sparkle:edSignature="lO0s8abf9Qp7NsWacBNw+x6yMi0JHNn3UeMppbwZl1QuH2oI+GJ19/hj8Hk3x2QskUOsjJhL8qWDPXIbg0E0BQ=="
                 length="36469751"
                 type="application/octet-stream"
@@ -1632,7 +1656,7 @@
             <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.12.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.12.0/Viska.zip"
                 sparkle:edSignature="XZCDSgrRqEb1LVOIjGofzlATuOk299PxXJEbcdeA1U4ZZF2nRclWMiGMeekF1uepSIZTImZM51Tqojwm+GwkCg=="
                 length="36470270"
                 type="application/octet-stream"
@@ -1653,7 +1677,7 @@
             <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.10.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.10.0/Viska.zip"
                 sparkle:edSignature="57BjPV+ulEG93cvQBpKJbzSRahqE5mItI62Go5DoXft+/+d8WO0cBmMH3+WnoAW5HYDnEjF3Yqfcs+ZoR/S3Cw=="
                 length="36411055"
                 type="application/octet-stream"
@@ -1677,7 +1701,7 @@
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.9.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.9.0/Viska.zip"
                 sparkle:edSignature="m6HdLYsLKpIC720hKwcVtbStFgVZq1Vd51ym8Ql+0OxXOlFMEQ1loXuQDTv0UJAUuix4gYl3GDV/v6u1UouVDA=="
                 length="36402137"
                 type="application/octet-stream"
@@ -1699,7 +1723,7 @@
             <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.8.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.8.0/Viska.zip"
                 sparkle:edSignature="d5N11dPMArIkoItnhNoh5ImmYuAqL2E8J+pOE1T4rmDsexYv9usl82JZfK1OdBKv24dRrMFPrajUHYCBRiMaAQ=="
                 length="36281221"
                 type="application/octet-stream"
@@ -1724,7 +1748,7 @@
             <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.7.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.7.0/Viska.zip"
                 sparkle:edSignature="D9tgTbPfe0WaaXFGSI+WHTDSVJx2I9YAJzSbRtv6p0XuVd2pufBwunhdWr0TSMkVAdvxiXWW/aMHpOWgLOkQAQ=="
                 length="36280173"
                 type="application/octet-stream"
@@ -1749,7 +1773,7 @@
             <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.6.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.6.0/Viska.zip"
                 sparkle:edSignature="YuPJLUK9loW9ZjE4gzAhSDcSx2023uG/7ZTZUOg0v4mEF7xhcWN7hiciWRDHFiS35PjQCBlzVBRYk5nqNi+zCg=="
                 length="36253335"
                 type="application/octet-stream"
@@ -1775,7 +1799,7 @@
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.5.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.5.0/Viska.zip"
                 sparkle:edSignature="ZP3Js0PJSEi1EZkJVa7zi18IVK/G/IVgW5EfdV2bhQ/Sb65877u50AhWIF7fzVHVINo+aQkKRuD3kFSSiDkYAA=="
                 length="36232134"
                 type="application/octet-stream"
@@ -1801,7 +1825,7 @@
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.4.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.4.0/Viska.zip"
                 sparkle:edSignature="4WazZLrw22XdHWjR7ZWvSjIhsa3ko1hJS/ofHZogJomqiqBFl3uoakWa8ff6d0vjQd69SCiPhFfmmlN3hHVhAA=="
                 length="36128123"
                 type="application/octet-stream"
@@ -1825,7 +1849,7 @@
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.2.1/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.2.1/Viska.zip"
                 sparkle:edSignature="uuTJ0PfJgPrOI6yoZqtMX+WH7GgsMfv3pQmdz+NMyR5imZBFJR+wB1JvXfyPjQAyadp0X/k7wz2EGxJY6xw/Cg=="
                 length="36111661"
                 type="application/octet-stream"
@@ -1848,7 +1872,7 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.2.0/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.2.0/Viska.zip"
                 sparkle:edSignature="YGRS4Uj1t0/g41oUZn5YE7/UoVTqlUAUFhSdgf4f1y1UC3Zw5zzD5YB0cxUeRmtNgQCKd/+/YNNRQLFZ20exCg=="
                 length="35584340"
                 type="application/octet-stream"
@@ -1873,7 +1897,7 @@
             <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.1.3/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.1.3/Viska.zip"
                 sparkle:edSignature="p/zEkTNrmVx7GW5uYe+MDay02IXHPPw5a9mrTb9Eei/KZ0QEHTx5GR+1PraZyg++yNetpTFxlZZ4UEUDwsj8Ag=="
                 length="35578753"
                 type="application/octet-stream"
@@ -1897,7 +1921,7 @@
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.1.2/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.1.2/Viska.zip"
                 sparkle:edSignature="eat2gaJHwBO9M0C8PTnfr+WCyI1jB8UCC+pIgPQAnSXChkITMG2CbGKj3dwtZPaygBRaia7kcD8xzEEc6WVLDg=="
                 length="45450322"
                 type="application/octet-stream"
@@ -1920,7 +1944,7 @@
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/PenPlanner/viska-updates/releases/download/v0.1.1/Viska.zip"
+                url="https://github.com/viska-ai/viska-updates/releases/download/v0.1.1/Viska.zip"
                 sparkle:edSignature="iYRQ9c95+IjU0S/tlBAw3NqjzqEayhITfQYd7a/GCcu11XdFWbMWSzZv5QLjvBILNDS5XGVjzzaII9dW6Yx+Bw=="
                 length="45444860"
                 type="application/octet-stream"
